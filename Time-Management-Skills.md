@@ -61,7 +61,7 @@ Be honest and transparent, and continue to make communication a top priority. Us
 ## Additional Resource links
 
 ---
-
+- [What to do when you know you’re going to miss a deadline](https://www.cleverism.com/what-to-do-when-you-know-youre-going-to-miss-a-deadline/)
 - [10 Communication Skills for Career Success](https://www.indeed.com/career-advice/resumes-cover-letters/communication-skills)
 - [Interview Question "How Do You Handle Stress?"](https://www.indeed.com/career-advice/interviewing/interview-question-how-do-you-handle-stress)
 - [What is the difference between synchronous and asynchronous remote work?](https://microverse.zendesk.com/hc/en-us/articles/360052011513-What-is-the-difference-between-synchronous-and-asynchronous-remote-work-)
