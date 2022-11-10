@@ -3,7 +3,7 @@
 ## Learning objectives
 
 - Show ability to manage time effectively to stay on schedule.
-- Understand the need to communicate about personal issues causing delays/absentsim in a professional way.
+- Understand the need to communicate about personal issues causing delays/absenteeism in a professional way.
 - Clearly communicate about the assignments and project works in a professional way, including possible delays in delivery.
 
 ## Introduction
@@ -44,7 +44,7 @@ Some of the most important time management skills and best practices include:
 - **Communicating**: Developing strong communication skills can allow you to make your plans and goals clear to people you work with. It also allows you to ask for help, which is important in a remote study and working environment. During your time at Microverse, we shall talk about communication a lot to help you develop these skills that are key to success in a remote professional environment.
 - **Managing stress**: Staying attentive to your mental health is a relevant time management best practice. Positively handling stress can help you stay motivated and perform well in your daily activities. You might do this by including small breaks throughout your day, recognizing and communicating personal problems that are out of your control, or rewarding yourself in small ways as you accomplish tasks.
 
-## Communicating delays or absentsim effectively
+## Communicating delays or absenteeism effectively
 
 The above time management skills are to be practiced regularly to improve and achieve your goals. 
 However, there are days when you might not be able to complete a task due to a personal situation outside of your control or a reasonable professional situation! 
