@@ -26,6 +26,7 @@ Write down the number of hours you spend on average for each of the 4 main areas
 
 
 
+
 #### :watch: The lives of some of the most successful people in human history and how they spent their 24 hours every day.
 [![][thumbnail]](https://drive.google.com/file/d/1xp6AoKVDeRrNhCGVtb4mbSL0nat_Vnjq/view?usp=sharing)
 [thumbnail]: https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png
