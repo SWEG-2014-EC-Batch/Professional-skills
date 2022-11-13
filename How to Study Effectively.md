@@ -17,17 +17,18 @@ apply in order to learn the knowledge you need in order to prepare yourself for 
 The first thing you must do is understand how you utilize your time, so we start by looking at how you spend an average day.
 
 ##### Time Pyramid
-<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/73167960/201541560-a988f015-efee-4cf4-aa13-71ef6a2d9029.png">
+<img align="right" width="400" height="280" src="https://user-images.githubusercontent.com/73167960/201541560-a988f015-efee-4cf4-aa13-71ef6a2d9029.png">
 How do you spend your day? For the most part, we divide our time every day between a few common activities that we all do on a daily basis: sleep, work/study, socialize with family and friends, and “others” which includes hobbies, exercise, watching TV, etc. 
 
 
 ##### Learning Activities
 Write down the number of hours you spend on average for each of the 4 main areas: Sleeping, Work/Study, Social Activities, Others. The time pyramid is ideally how you should divide your time. Notice there is a range for each activity, so being within that range gives you sufficient time to manage your daily activities. 
 
-![image]()
 
-:Octal The lives of some of the most successful people in human history and how they spent their 24 hours every day.
-![image](https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png)
+
+#### :watch: The lives of some of the most successful people in human history and how they spent their 24 hours every day.
+![[][thumbnail](https://drive.google.com/file/d/1xp6AoKVDeRrNhCGVtb4mbSL0nat_Vnjq/view?usp=sharing)
+[thumbnail]: https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png
 
    
 
