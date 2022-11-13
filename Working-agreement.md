@@ -29,7 +29,6 @@ Spend 10 minutes reading through the following areas of common working agreement
 ## Additional materials
 - [Team Working Agreements - What? Why? How?](https://medium.com/@angelydaz/team-working-agreements-what-why-how-28b2970b71ca)
 - [The power of working agreements](https://techbeacon.com/app-dev-testing/power-working-agreements-how-drive-your-agile-team)
-- 
 ------
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
