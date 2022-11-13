@@ -13,13 +13,13 @@ apply in order to learn the knowledge you need in order to prepare yourself for 
 ![image](https://user-images.githubusercontent.com/73167960/201541466-a3564295-3865-408e-b9b3-ebbc010dfb0b.png)
 
  
-## (1) Daily Habits
+## (1) Manage Your Daily Habits
 The first thing you must do is understand how you utilize your time, so we start by looking at how you spend an average day.
 
 ##### Time Pyramid
-How do you spend your day? For the most part, we divide our time every day between a few common activities that we all do on a daily basis: sleep, work/study, socialize with family and friends, and “others” which includes hobbies, exercise, watching TV, etc.
+How do you spend your day? For the most part, we divide our time every day between a few common activities that we all do on a daily basis: sleep, work/study, socialize with family and friends, and “others” which includes hobbies, exercise, watching TV, etc. ![image](https://user-images.githubusercontent.com/73167960/201541524-e3839201-6e76-4c3f-a318-e88607bcfd1b.png)
 
-![image](https://user-images.githubusercontent.com/73167960/201541524-e3839201-6e76-4c3f-a318-e88607bcfd1b.png)
+
 
 ##### Learning Activities
 Write down the number of hours you spend on average for each of the 4 main areas: Sleeping, Work/Study, Social Activities, Others. The time pyramid is ideally how you should divide your time. Notice there is a range for each activity, so being within that range gives you sufficient time to manage your daily activities. 
