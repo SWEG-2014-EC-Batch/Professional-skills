@@ -17,7 +17,7 @@ apply in order to learn the knowledge you need in order to prepare yourself for 
 The first thing you must do is understand how you utilize your time, so we start by looking at how you spend an average day.
 
 ##### Time Pyramid
-<img align="right" width="400" height="200" src="https://user-images.githubusercontent.com/73167960/201541560-a988f015-efee-4cf4-aa13-71ef6a2d9029.png">
+<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/73167960/201541560-a988f015-efee-4cf4-aa13-71ef6a2d9029.png">
 How do you spend your day? For the most part, we divide our time every day between a few common activities that we all do on a daily basis: sleep, work/study, socialize with family and friends, and “others” which includes hobbies, exercise, watching TV, etc. 
 
 
