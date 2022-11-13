@@ -27,7 +27,7 @@ Write down the number of hours you spend on average for each of the 4 main areas
 ![image](https://user-images.githubusercontent.com/73167960/201541560-a988f015-efee-4cf4-aa13-71ef6a2d9029.png)
 
 :Octal The lives of some of the most successful people in human history and how they spent their 24 hours every day.
-![https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png]
+![image](https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png)
 
    
 
