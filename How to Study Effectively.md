@@ -62,6 +62,9 @@ People who are most successful at achieving their priorities spend the majority 
 
 ## (4) Before and After Class
  - #### Arrange Your Study Space
+   [![][thumbnail]](https://drive.google.com/file/d/1xp6AoKVDeRrNhCGVtb4mbSL0nat_Vnjq/view?usp=sharing "Successful people in human history")
+   [thumbnail]: https://user-images.githubusercontent.com/73167960/201552606-2523b6a3-469c-4a3e-a20b-a1ed45fdca33.png
+   
  - #### Practice Active Study Techniques
  - #### Maximize Your Study Time
 ## (5) During Class Time
