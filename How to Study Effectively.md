@@ -71,6 +71,7 @@ Many popular study techniques - highlighting, re-reading - are actually passive 
 
 ##### Use the Feynman Technique to review concepts
 This five-step technique relies on the old saying “while we teach, we learn,” which essentially means that the best way to learn a concept, is to explain it to someone else
+
 <img width="600" height="700" src="https://user-images.githubusercontent.com/73167960/201553458-7aaed85d-b3f7-4bf5-8d4a-21c5f36789a1.png">
 
  ### (c) Maximize Your Study Time
@@ -80,7 +81,7 @@ This five-step technique relies on the old saying “while we teach, we learn,�
 
 ## (5) During Class Time
  ### (a) Arrive Ready to Learn
- [![][thumbnail03]]()
+ [![][thumbnail03]]() 
 
 [thumbnail03]: 
 
