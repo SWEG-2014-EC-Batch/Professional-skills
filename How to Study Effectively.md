@@ -48,5 +48,5 @@ When trying to decide whether an activity or task is aligned with your prioritie
 
 The matrix is divided into 4 quadrants as illustrated in the below diagram. As you learn to differentiate between what is urgent versus what is important, you will find that you are more effective in allocating time to those tasks that help you achieve your priorities.
 
-<img align="Left" width="300" height="300" src="https://user-images.githubusercontent.com/73167960/201551788-18ea6102-0abe-4293-81a5-07788dd42f93.png">
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/73167960/201551792-f2316d4f-2068-4a55-a918-b8ff09d2ab52.png">
+<img align="Left" width="500" height="400" src="https://user-images.githubusercontent.com/73167960/201551788-18ea6102-0abe-4293-81a5-07788dd42f93.png">
+<img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/73167960/201551792-f2316d4f-2068-4a55-a918-b8ff09d2ab52.png">
