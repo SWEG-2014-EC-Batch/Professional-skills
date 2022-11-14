@@ -50,3 +50,9 @@ The matrix is divided into 4 quadrants as illustrated in the below diagram. As y
 
 ![image](https://user-images.githubusercontent.com/73167960/201551788-18ea6102-0abe-4293-81a5-07788dd42f93.png)
 
+Reflection Questions:
+* Which quadrant had the most tasks? 
+* Which quadrant had the fewest tasks?
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/73167960/201551963-abe7337f-ff81-4601-8d91-c01cfb7d74e6.png">
+
