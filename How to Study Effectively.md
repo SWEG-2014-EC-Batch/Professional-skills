@@ -33,7 +33,7 @@ Write down the number of hours you spend on average for each of the 4 main areas
 
 [thumbnail]: https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png
 
-#### Tips: Manage your time
+##(2) Manage your time
 
 It's important to manage your time efficiently so that you can guard against procrastination. By managing your time, you will be able to allot the appropriate amount of time and effort to your various priorities. Thus, prepare a weekly and(or) daily schedule in which you:
 - Prioritize your assignments
@@ -43,7 +43,7 @@ It's important to manage your time efficiently so that you can guard against pro
 - Plan to spend at least two hours of study time for every hour of class
 - Use Technology: Scheduling Effectively like Quizlet, Cram.com, Evernote and others
 
-## (2) Apply Time Management Toolbox
+## (2) Apply Time Management Principles and Toolbox
 When trying to decide whether an activity or task is aligned with your priorities, it is helpful to ask yourself what is important and what is not. This time matrix was popularized by Dr. Stephen R. Covey and will help you answer those questions daily.
 
 The matrix is divided into 4 quadrants as illustrated in the below diagram. As you learn to differentiate between what is urgent versus what is important, you will find that you are more effective in allocating time to those tasks that help you achieve your priorities.
