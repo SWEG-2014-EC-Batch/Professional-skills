@@ -62,8 +62,7 @@ People who are most successful at achieving their priorities spend the majority 
 
 ## (4) Before and After Class
  - #### Arrange Your Study Space
-   [![][image1]](https://www.youtube.com/watch?v=se1XPfhgVnQ "How to Study Effectively: Intentional Steps")
-   [image1]: https://user-images.githubusercontent.com/73167960/201552706-dea51880-3373-40c7-95a5-cda132e36c18.png
+   [![][[image](https://user-images.githubusercontent.com/73167960/201552706-dea51880-3373-40c7-95a5-cda132e36c18.png)]](https://www.youtube.com/watch?v=se1XPfhgVnQ "How to Study Effectively: Intentional Steps")
 
  - #### Practice Active Study Techniques
  - #### Maximize Your Study Time
