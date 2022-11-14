@@ -69,9 +69,9 @@ People who are most successful at achieving their priorities spend the majority 
 
 Note taking forces you to think critically and carefully about the information that is being presented. It also helps you in terms of understanding the information and remembering it.
 
-[![][thumbnail03]](https://www.youtube.com/watch?v=qBdJPvn7RgM "Note Taking Strategies for Academic Success")
+[![][thumbnail04]](https://www.youtube.com/watch?v=qBdJPvn7RgM "Note Taking Strategies for Academic Success")
 
-[thumbnail03]: https://user-images.githubusercontent.com/73167960/201555060-0a032cd9-419e-49b9-a4fe-6dc03177951a.png
+[thumbnail04]: https://user-images.githubusercontent.com/73167960/201555060-0a032cd9-419e-49b9-a4fe-6dc03177951a.png
 
 While there is no single “best” way to take notes, keep the following suggestions in mind: 
 - Keep your notes brief. Use abbreviations, symbols and words or phrases rather than a full sentence whenever possible.
