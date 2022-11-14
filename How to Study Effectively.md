@@ -106,4 +106,4 @@ This five-step technique relies on the old saying â€œwhile we teach, we learn,â€
  ### (b) Maximize Your Study Time
 [![][thumbnail05]](https://youtu.be/keZPcY34Cko "Maximize Your Study Time")
 
-[thumbnail05]: ![image](https://user-images.githubusercontent.com/73167960/201553505-fa84c426-10ad-42b5-b37e-5e50e9b7785a.png)
+[thumbnail05]: https://user-images.githubusercontent.com/73167960/201553505-fa84c426-10ad-42b5-b37e-5e50e9b7785a.png
