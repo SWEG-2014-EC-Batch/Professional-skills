@@ -43,7 +43,7 @@ It's important to manage your time efficiently so that you can guard against pro
 - Plan to spend at least two hours of study time for every hour of class
 - Use Technology: Scheduling Effectively like Quizlet, Cram.com, Evernote and others
 
-## (2) Apply Time Management Principles and Toolbox
+## (3) Apply Time Management Principles and Toolbox
 When trying to decide whether an activity or task is aligned with your priorities, it is helpful to ask yourself what is important and what is not. This time matrix was popularized by Dr. Stephen R. Covey and will help you answer those questions daily.
 
 The matrix is divided into 4 quadrants as illustrated in the below diagram. As you learn to differentiate between what is urgent versus what is important, you will find that you are more effective in allocating time to those tasks that help you achieve your priorities.
@@ -58,3 +58,14 @@ Reflection Questions:
 
 ### Good To Know:
 People who are most successful at achieving their priorities spend the majority of their time in Quadrants 1 and 2. People who are often unsuccessful in reaching their goals are usually distracted by Quadrant 3 or spend too much time in Quadrant 4.
+
+
+##(4) Before and After Class
+ - #### Arrange Your Study Space
+ - ####Practice Active Study Techniques
+ - ####Maximize Your Study Time
+##(5) During Class Time
+ - ####Arrive Ready to Learn
+ - #### Take Careful Notes
+ - ####Participate in Discussions
+
