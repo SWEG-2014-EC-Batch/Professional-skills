@@ -67,9 +67,42 @@ People who are most successful at achieving their priorities spend the majority 
 [thumbnail02]: https://user-images.githubusercontent.com/73167960/201552706-dea51880-3373-40c7-95a5-cda132e36c18.png
 
  - #### Practice Active Study Techniques
+Many popular study techniques - highlighting, re-reading - are actually passive study techniques, meaning they do not require high engagement with the content. Because of this, they are not necessarily the best ways to understand and retain new information. Active study techniques, on the other hand, force you to interact and engage with the text in deeper ways, therefore helping you to process the information more thoroughly. 
+
+##### Use the Feynman Technique to review concepts
+This five-step technique relies on the old saying “while we teach, we learn,” which essentially means that the best way to learn a concept, is to explain it to someone else
+![image](https://user-images.githubusercontent.com/73167960/201553458-7aaed85d-b3f7-4bf5-8d4a-21c5f36789a1.png)
+
  - #### Maximize Your Study Time
+[![][thumbnail03]](https://youtu.be/keZPcY34Cko "Maximize Your Study Time")
+
+[thumbnail03]: ![image](https://user-images.githubusercontent.com/73167960/201553505-fa84c426-10ad-42b5-b37e-5e50e9b7785a.png)
+
 ## (5) During Class Time
  - #### Arrive Ready to Learn
+ [![][thumbnail03]]()
+
+[thumbnail03]: 
  - #### Take Careful Notes
+[![][thumbnail03]](https://www.youtube.com/watch?v=qBdJPvn7RgM "Note Taking Strategies for Academic Success")
+
+[thumbnail03]: ![image](https://user-images.githubusercontent.com/73167960/201553128-d3e0b797-530e-41bb-b427-e54407c4b3f1.png)
+
+Note taking forces you to think critically and carefully about the information that is being presented. It also helps you in terms of understanding the information and remembering it. While there is no single “best” way to take notes, keep the following suggestions in mind: 
+- Keep your notes brief. Use abbreviations, symbols and words or phrases rather than a full sentence whenever possible.
+- Other than formulas, definitions or specific facts, keep the notes in your own words. 
+- Include all main ideas and enough important points to develop an understanding. 
+- Don’t take time to outline during the lecture, but differentiate between major and minor points. 
+- Use the margins for questions and comments to yourself.
+
  - #### Participate in Discussions
+ ![image](https://user-images.githubusercontent.com/73167960/201553255-e4fd24c8-4553-4e6e-8a8a-1416d71daf59.png)
+ 
+ - Participating will help bolster your marks in a class.
+ - Many classes will grade on participation, whether it’s stated in the syllabus or not, so participating can help bolster your mark.
+ - This will help you stand out to your professors, which will help later on when you’re looking for someone to write a letter of recommendation.
+ - Participating will help you clarify content or ideas you may not quite understand.
+ - It is likely that many people in the class may have the same or a similar question to you, or may bring up points to help you think of things in new ways
+ - Participating will help you from becoming bored or distracted in the class.
+ - Research has shown that engaging with the same material in different ways - reading, speaking, writing, and listening - increases your retention and understanding, so participating is another way for you to retain and process information from your class.
 
