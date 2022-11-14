@@ -71,7 +71,7 @@ Note taking forces you to think critically and carefully about the information t
 
 [![][thumbnail03]](https://www.youtube.com/watch?v=qBdJPvn7RgM "Note Taking Strategies for Academic Success")
 
-[thumbnail03]: https://user-images.githubusercontent.com/73167960/201554451-3c980a6f-8152-4f5a-ba82-0682c4eae602.png
+[thumbnail03]: https://user-images.githubusercontent.com/73167960/201555060-0a032cd9-419e-49b9-a4fe-6dc03177951a.png
 
 While there is no single “best” way to take notes, keep the following suggestions in mind: 
 - Keep your notes brief. Use abbreviations, symbols and words or phrases rather than a full sentence whenever possible.
