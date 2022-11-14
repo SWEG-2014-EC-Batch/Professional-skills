@@ -33,7 +33,7 @@ Write down the number of hours you spend on average for each of the 4 main areas
 
 [thumbnail01]: https://user-images.githubusercontent.com/73167960/201541638-2b3477f7-a136-426e-9a77-3ab9d72eda7c.png
 
-##(2) Manage your time
+## (2) Manage your time
 
 It's important to manage your time efficiently so that you can guard against procrastination. By managing your time, you will be able to allot the appropriate amount of time and effort to your various priorities. Thus, prepare a weekly and(or) daily schedule in which you:
 - Prioritize your assignments
