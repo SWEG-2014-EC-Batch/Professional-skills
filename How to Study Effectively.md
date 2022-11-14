@@ -60,12 +60,12 @@ Reflection Questions:
 People who are most successful at achieving their priorities spend the majority of their time in Quadrants 1 and 2. People who are often unsuccessful in reaching their goals are usually distracted by Quadrant 3 or spend too much time in Quadrant 4.
 
 
-##(4) Before and After Class
+## (4) Before and After Class
  - #### Arrange Your Study Space
- - ####Practice Active Study Techniques
- - ####Maximize Your Study Time
-##(5) During Class Time
- - ####Arrive Ready to Learn
+ - #### Practice Active Study Techniques
+ - #### Maximize Your Study Time
+## (5) During Class Time
+ - #### Arrive Ready to Learn
  - #### Take Careful Notes
- - ####Participate in Discussions
+ - #### Participate in Discussions
 
