@@ -60,16 +60,16 @@ Reflection Questions:
 People who are most successful at achieving their priorities spend the majority of their time in Quadrants 1 and 2. People who are often unsuccessful in reaching their goals are usually distracted by Quadrant 3 or spend too much time in Quadrant 4.
 
 
-## (4) Before and After Class
- - #### Arrange Your Study Space 
+## (4) Study Before and After Class
+ - ### (a) Arrange Your Study Space 
 [![][thumbnail02]](https://www.youtube.com/watch?v=se1XPfhgVnQ "How to Study Effectively: Intentional Steps")
 
 [thumbnail02]: https://user-images.githubusercontent.com/73167960/201552706-dea51880-3373-40c7-95a5-cda132e36c18.png
 
- - #### Practice Active Study Techniques
+ - ### (b) Practice Active Study Techniques
 Many popular study techniques - highlighting, re-reading - are actually passive study techniques, meaning they do not require high engagement with the content. Because of this, they are not necessarily the best ways to understand and retain new information. Active study techniques, on the other hand, force you to interact and engage with the text in deeper ways, therefore helping you to process the information more thoroughly. 
 
-##### Use the Feynman Technique to review concepts
+### (c) Use the Feynman Technique to review concepts
 This five-step technique relies on the old saying “while we teach, we learn,” which essentially means that the best way to learn a concept, is to explain it to someone else
 ![image](https://user-images.githubusercontent.com/73167960/201553458-7aaed85d-b3f7-4bf5-8d4a-21c5f36789a1.png)
 
@@ -83,6 +83,7 @@ This five-step technique relies on the old saying “while we teach, we learn,�
  [![][thumbnail03]]()
 
 [thumbnail03]: 
+
  - #### Take Careful Notes
 [![][thumbnail03]](https://www.youtube.com/watch?v=qBdJPvn7RgM "Note Taking Strategies for Academic Success")
 
@@ -96,6 +97,7 @@ Note taking forces you to think critically and carefully about the information t
 - Use the margins for questions and comments to yourself.
 
  - #### Participate in Discussions
+ - 
  ![image](https://user-images.githubusercontent.com/73167960/201553255-e4fd24c8-4553-4e6e-8a8a-1416d71daf59.png)
  
  - Participating will help bolster your marks in a class.
