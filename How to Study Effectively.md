@@ -56,3 +56,5 @@ Reflection Questions:
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/73167960/201551963-abe7337f-ff81-4601-8d91-c01cfb7d74e6.png">
 
+### Good To Know:
+People who are most successful at achieving their priorities spend the majority of their time in Quadrants 1 and 2. People who are often unsuccessful in reaching their goals are usually distracted by Quadrant 3 or spend too much time in Quadrant 4.
