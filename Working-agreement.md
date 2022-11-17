@@ -1,4 +1,4 @@
-# Working agreements for team programming project
+# Working agreements for team project
 
 Collaboration can be hard at times. Teams don't always get along, and people want to do things differently. Misunderstandings can happen. Working agreements help set you up for success with each coding partner you have so you can pair program together and resolve any issues that arise.
 
