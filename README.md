@@ -1,5 +1,8 @@
-# Professional-skills
+## Effective Learning and Study
+
 This repo is a collection of various useful professional skills good practices and principles
-- Time management skills
-- Growth mindset
+- Mindset
+- Time Management Skills
+- Team Work and Collaboration
+- Interpersonal Skills
 - Working Agreements
