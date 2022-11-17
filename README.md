@@ -2,6 +2,7 @@
 
 This repo is a collection of various useful professional skills good practices and principles
 - Mindset and motivation
+- Contorl imposter syndrome 
 - Time Management Skills
 - Team Work and Collaboration
 - Interpersonal Skills
