@@ -8,6 +8,8 @@ there is no reason to try again. Conversely, individuals with growth mindset are
 
 [Growth Mindset and Grit Interventions](https://www.learningscientists.org/blog/2018/4/19-1#:~:text=Grit%20refers%20to%20a%20student%27s,resilient%20and%20have%20more%20grit.)
 
+https://www.mindsethealth.com/
+
 [Learning Hacks: Mindset](https://courses.lumenlearning.com/waymaker-psychology/chapter/what-is-mindset-and-why-does-it-matter/)
 
 https://www.coursera.org/lecture/teaching-plan/lecture-1-introduction-to-mindsets-for-teaching-and-learning-lE5SE
