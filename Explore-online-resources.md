@@ -1,4 +1,4 @@
-# How to look for answers, aka why Google is the best friend of web developers
+# How to look for answers Online, Why Google is the best Choice
 
 ## Learning objectives
 
